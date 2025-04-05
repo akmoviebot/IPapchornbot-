@@ -36,7 +36,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
     TTS_TXT="""
 <b>• sᴇɴᴅ /tts ᴛᴏ ᴜsᴇ ᴛʜɪs ғᴇᴀᴛᴜʀᴇ</b>"""
 
-    ABOUT_TEXT = """<b> Jai bhole baba ki{},
+    ABOUT_TEXT = """<b>𝗬𝗲𝘀 𝗜'𝗺 𝗠𝗼𝘃𝗶𝗲 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿{},
     
 🤖 ɪ'ᴍ <a href=https://t.me/{}</a> 
 ⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
@@ -107,7 +107,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<a href='https://t.me/Movieupdatewithak01'><b> {file_name}</b></a>\n\n<b>If You Are Facing Any Sound Issue Then use a VLC Media Player @Movieupdatewithak01</b>"""
+    FILE_CAPTION = """<a href='https://t.me/Movieupdatewithak01'><b> {file_name}</b></a>\n\n<b>If You Are Facing Any Sound Issue Then use a VLC Media Player or join more updates @Movieupdatewithak01 and get your Solution</b>"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
